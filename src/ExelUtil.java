@@ -6,4 +6,7 @@ public class ExelUtil {
     }
 
 
+    public void method2(){
+        // write to  cell
+    }
 }
